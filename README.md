@@ -53,6 +53,11 @@ The architecture follows a unidirectional data flow model, where data flows in a
 - Typescript
 - @benev/slate
 
+### Contact
+For more personal stuff:
+discord: zenkyu
+gmail: przemekgg2002@gmail.com
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
