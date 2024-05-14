@@ -55,8 +55,8 @@ The architecture follows a unidirectional data flow model, where data flows in a
 
 ### Contact
 For more personal stuff:
-discord: zenkyu
-gmail: przemekgg2002@gmail.com
+- discord: zenkyu
+- gmail: przemekgg2002@gmail.com
 
 ## License
 
